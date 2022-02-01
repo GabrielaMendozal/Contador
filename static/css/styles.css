@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+}
+.click {
+    background-color: blue;
+    color: yellow;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.reset{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    margin: 20px;
+}
